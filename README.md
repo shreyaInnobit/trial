@@ -1,4 +1,4 @@
 # trial
 this is a trial repository
 <br>
-author - shreya srivastava
+author - shreya Innobit
